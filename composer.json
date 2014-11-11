@@ -1,0 +1,13 @@
+{
+    "name": "MonSiteWeb",
+    "description": "mon propre site web",
+    "license" : "MIT",
+    "type":"project",
+    "autoload": {
+        "psr-0": {"" : "src/"}
+    },
+    "require":{
+    "gabordemooij/redbean": "v3.5.1"
+
+    }
+}
